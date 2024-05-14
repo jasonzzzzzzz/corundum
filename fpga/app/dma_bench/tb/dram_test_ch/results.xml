@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1715671586" />
+    <testcase name="run_test_001" classname="test_dram_test_ch" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="12.796923160552979" sim_time_ns="20164.001" ratio_time="1575.6913397867645" />
+  </testsuite>
+</testsuites>

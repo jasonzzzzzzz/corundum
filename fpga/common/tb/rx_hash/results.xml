@@ -1,0 +1,13 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1715668292" />
+    <testcase name="run_test_001" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.2581150531768799" sim_time_ns="11148.001" ratio_time="43190.04592250786" />
+    <testcase name="run_test_002" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.7885949611663818" sim_time_ns="44460.001000000004" ratio_time="56378.75359264387" />
+    <testcase name="run_test_003" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.3228793144226074" sim_time_ns="12536.000999999997" ratio_time="38825.655407555736" />
+    <testcase name="run_test_004" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.9436087608337402" sim_time_ns="49996.001000000004" ratio_time="52983.824520477385" />
+    <testcase name="run_test_005" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.36291980743408203" sim_time_ns="13092.001000000004" ratio_time="36074.08780623784" />
+    <testcase name="run_test_006" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="1.017038106918335" sim_time_ns="52220.00099999999" ratio_time="51345.17639484387" />
+    <testcase name="run_test_007" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="0.394212007522583" sim_time_ns="13944.001000000018" ratio_time="35371.83224740108" />
+    <testcase name="run_test_008" classname="test_rx_hash" file="/Users/jz/.venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="731" time="1.071899175643921" sim_time_ns="55628.00099999999" ratio_time="51896.67299313169" />
+  </testsuite>
+</testsuites>
